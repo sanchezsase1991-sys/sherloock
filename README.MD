@@ -11,7 +11,7 @@ Motor de IA híbrido con:
 ## Instalación
 
 ```bash
-git clone https://github.com/sanchezsase1991-sys/SHERLOOK.git
+git clone https://github.com/sanchezsase1991-sys/sherlook.git
 cd sherlook
 python3.12 -m venv venv
 source venv/bin/activate
