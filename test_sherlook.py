@@ -1,4 +1,4 @@
-from .Sherloock import sherloock   # CORRECTO según tu estructura
+from sherloock import Sherloock   # CORRECTO según tu estructura
 
 bot = Sherloock()
 
