@@ -36,4 +36,4 @@ jobs:
         export PYTHONPATH=$PYTHONPATH:.
         
         # Esto ahora encontrará y ejecutará tu archivo de prueba
-        pytest
+        pytest test_sherlook.py
