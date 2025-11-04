@@ -1,5 +1,5 @@
 # Nombre de tu workflow (puedes ponerle lo que quieras)
-name: main
+name: environment.yml
 
 # Cuándo se debe ejecutar
 on:
