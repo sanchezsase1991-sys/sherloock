@@ -1,3 +1,3 @@
-from sherloock import Sherloock
+from sherlock import Sherlock
 
 __all__ = ["Sherloock"]
