@@ -35,4 +35,4 @@ jobs:
       # 4. Ejecuta tu script principal
       # (Cambia 'sherlook.py' por el nombre real de tu archivo)
       - name: Ejecutar el script
-        run: python sherlook.py
+        run: python test_sherlook.py
