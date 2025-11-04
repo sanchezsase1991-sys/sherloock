@@ -1,6 +1,6 @@
 import argparse
 import sys
-from .sherloock import Sherloock # Importa tu clase
+from sherloock import Sherloock # Importa tu clase
 
 def main():
     parser = argparse.ArgumentParser(
