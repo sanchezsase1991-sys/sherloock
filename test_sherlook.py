@@ -1,7 +1,7 @@
 import unittest
 from .sherloock import Sherloock
 
-class TestSherloock(unittest.TestCase):
+class testSherloock(unittest.TestCase):
     def test_rules(self):
         sh = Sherloock()
         sh.add_rule(r'foo', 'bar')
