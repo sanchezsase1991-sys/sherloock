@@ -1,4 +1,4 @@
-# SHERLOOK
+# Sherlook
 **Super Hybrid Efficient Reasoning Layered Orchestrator Of Knowledge**
 
 Motor de IA híbrido con:
@@ -13,6 +13,6 @@ Motor de IA híbrido con:
 ```bash
 git clone https://github.com/sanchezsase1991-sys/sherlook.git
 cd sherlook
-python3.12 -m venv venv
+python3.10 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
