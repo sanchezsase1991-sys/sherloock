@@ -1,3 +1,3 @@
-from .sherloock import Sherloock
+from sherloock import Sherloock
 
 __all__ = ["Sherloock"]
