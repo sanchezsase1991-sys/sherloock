@@ -1,5 +1,5 @@
 # Nombre de tu workflow (puedes ponerle lo que quieras)
-name: Mi Workflow de Python
+name: main
 
 # Cuándo se debe ejecutar
 on:
@@ -35,5 +35,5 @@ jobs:
       # 4. Ejecuta tu script principal
       # (Cambia 'tu_script.py' por el nombre real de tu archivo)
       - name: Ejecutar el script
-        run: python tu_script.py
+        run: python sherlook.py
 
