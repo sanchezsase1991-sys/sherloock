@@ -1,5 +1,5 @@
 import unittest
-from src.sherloock import Sherloock
+from .sherloock import Sherloock
 
 class TestSherloock(unittest.TestCase):
     def test_rules(self):
