@@ -1,4 +1,4 @@
-# Sherlook
+# Sherlok
 **Super Hybrid Efficient Reasoning Layered Orchestrator Of Knowledge**
 
 Motor de IA híbrido con:
