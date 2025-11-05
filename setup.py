@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="sherloock",
     version="0.1.0",
-    author="SanchezSASE",
+    author="Sergio Alberto Sanchez Echeverria",
     description="Super Hybrid Efficient Reasoning Layered Orchestrator Of Knowledge (motor lógico sin entrenamiento)",
     packages=find_packages(),
     install_requires=[
