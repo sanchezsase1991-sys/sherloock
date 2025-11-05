@@ -1,6 +1,0 @@
-numpy
-scikit-learn
-z3-solver
-pulp
-sympy
-psutil
