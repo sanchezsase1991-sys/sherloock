@@ -35,5 +35,5 @@ El software se proporciona "tal cual", sin garantía expresa o implícita.
 Instalación desde GitHub:
 
 ```bash
-pip install git+https://github.com/tu_usuario/sherloock.git
+pip install git+https://github.com/sanchezsase1991-sys/sherloock.git
 # sherloock
