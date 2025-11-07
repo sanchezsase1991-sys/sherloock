@@ -9,6 +9,7 @@ Sherloock es un motor híbrido de razonamiento y predicción que combina reglas,
 ## Autor y Fecha de Publicación
 
 **Sergio Alberto Sánchez Echeverría**  
+-Email: sanchezsase1991@gmail.com
 - GitHub: [sanchezsase1991-sys](https://github.com/sanchezsase1991-sys)  
 - Proyecto creado: 6 de noviembre de 2025  
 - Fecha de publicación en GitHub: 7 de noviembre de 2025  
