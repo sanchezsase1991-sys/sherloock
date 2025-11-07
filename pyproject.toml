@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sherloock"
+version = "0.1.0"
+description = "Sherloock: Motor de razonamiento híbrido"
+authors = [
+    { name = "Sergio Alberto Sanchez Echeverria", email = "sanchezsase1991@gmail.com" }
+]
+license = { text = "MIT" }
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "scikit-learn",
+    "z3-solver",
+    "pulp",
+    "sympy",
+    "psutil"
+]
+
+[project.scripts]
+sherloock = "sherloock.cli:main"
